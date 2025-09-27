@@ -99,6 +99,12 @@ print(y_prednew)
 ```
 
 ## Output:
+![WhatsApp Image 2025-09-27 at 11 23 47_5455a569](https://github.com/user-attachments/assets/9da8242b-e250-4e5c-8f8f-3dca2c769c79)
+
+![WhatsApp Image 2025-09-27 at 11 23 47_428126bc](https://github.com/user-attachments/assets/7b78dd66-5cb7-4bc3-98d0-a64340d10990)
+
+![WhatsApp Image 2025-09-27 at 11 23 47_4b8bc910](https://github.com/user-attachments/assets/e9956bcf-59bc-43d3-bc1c-770384e52edd)
+
 ![WhatsApp Image 2025-09-27 at 11 24 03_917f4fdd](https://github.com/user-attachments/assets/60031a61-acb1-4d33-97dc-7e9ff6c74c1f)
 
 ![WhatsApp Image 2025-09-27 at 11 24 03_02cadbdd](https://github.com/user-attachments/assets/8abcac66-d109-441a-af3d-f6b70e0f5977)
